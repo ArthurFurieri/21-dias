@@ -1,1 +1,1 @@
-console.log("hello word")
+console.log('i am in the second day, and i learned git!!!!')
